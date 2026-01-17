@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Chase: Monster Creator",
+  "description": "A high-octane 2D chase game where you can upload custom textures for your pursuer. Survive as long as possible while avoiding the monster you created!",
+  "requestFramePermissions": []
+}
